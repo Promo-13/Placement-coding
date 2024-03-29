@@ -1,2 +1,2 @@
-# Placement-coding - Leetcode problems
+# Placement-coding
 Placement preps..💫✌️
